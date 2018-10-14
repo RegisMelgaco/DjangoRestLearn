@@ -31,4 +31,4 @@ pip-delete-this-directory.txt
 
 env/
 
-db.slqlite3
+*.slqlite3
